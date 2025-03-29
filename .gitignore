@@ -1,0 +1,39 @@
+# .NET
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ebugType/
+[Dd]ebugView/
+
+# Diretórios de build
+bin/
+obj/
+
+# Diretórios de pacotes
+packages/
+
+# Arquivos de configuração do Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Arquivos de configuração de usuário
+*user*
+*useros*
+*suo*
+*swp*
+
+# Arquivos de logs
+*.log
+
+# Arquivos de banco de dados locais
+*.mdf
+*.ldf
+
+# Arquivos de publicação
+publish/
+
+# Arquivos temporários
+*.tmp
+
